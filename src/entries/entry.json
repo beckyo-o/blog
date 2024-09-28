@@ -15,22 +15,29 @@
     },
     {
         "id": "3",
-        "title": "tom",
-        "content": "Content of Entry 2",
+        "title": "title",
+        "content": "Content of Entry 3",
         "date": "2024-04-17",
         "images": ["/vercel.svg"]
     },
     {
-        "id": "3",
-        "title": "tom",
-        "content": "Content of Entry 2",
+        "id": "4",
+        "title": "wow",
+        "content": "Content of Entry 4",
         "date": "2024-04-17",
         "images": ["/vercel.svg"]
     },
     {
-        "id": "3",
-        "title": "tom",
-        "content": "Content of Entry 2",
+        "id": "5",
+        "title": "e",
+        "content": "Content of Entry 5",
+        "date": "2024-04-17",
+        "images": ["/vercel.svg"]
+    },
+    {
+        "id": "6",
+        "title": "Game Design, completing Final.",
+        "content": "",
         "date": "2024-04-17",
         "images": ["/vercel.svg"]
     }
