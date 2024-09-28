@@ -34,10 +34,8 @@ export default async function EntryDetailPage({ params }: {
                     </div>
                 )}
                 {!nextEntryLink && (
-                    <div className="group">
-                        <a className="h-75 w-20 bg-gray-400/30 fixed inset-y-40 right-5 flex items-center justify-center rounded-xl border border-gray-400 opacity-50 cursor-not-allowed">
-                            <ChevronRightIcon className="text-gray-400 h-60 w-20 bg-gray-400/30 rounded-lg mx-1" />
-                        </a>
+                    <div className="">
+
                     </div>
                 )}
 
@@ -50,10 +48,8 @@ export default async function EntryDetailPage({ params }: {
                     </div>
                 )}
                 {!prevEntryLink && (
-                    <div className="group">
-                        <a className="h-75 w-20 bg-gray-400/30 fixed inset-y-40 left-5 flex items-center justify-center rounded-xl border border-gray-400 opacity-50 cursor-not-allowed">
-                            <ChevronLeftIcon className="text-gray-400 h-60 w-20 bg-gray-400/30 rounded-lg mx-1" />
-                        </a>
+                    <div className="">
+                        
                     </div>
                 )}
             </div>
