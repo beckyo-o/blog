@@ -59,15 +59,17 @@ export default async function EntryDetailPage({ params }: {
                 <h1 className="text-3xl font-bold mb-4 mt-5">
                     {entry.title}
                 </h1>
-                <p className="text-gray-600 mb-4">
+                <p className="text-gray-600 mb-4 font-mono">
                     {entry.date}
                 </p>
                 <div className="">
+                    <p className="font-sans leading-loose antialiased">
                     {entry.content}
+                    </p>
                 </div>
                 <div className="grid grid-cols-1 gap-4 place-items-center h-56">
                     {entry.images.map((image: string) => (
-                        <Image src={image} alt='' width={200} height={200} className="dark:invert py-1" />
+                        <img src={image} alt='' width={200} height={200} className="py-10" />
                     ))}
                 </div>
             </div>

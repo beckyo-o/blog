@@ -1,44 +1,10 @@
 [
     {
         "id": "1",
-        "title": "bob",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla facilisi etiam dignissim diam quis enim lobortis scelerisque. Vitae auctor eu augue ut lectus arcu. Magna fermentum iaculis eu non diam phasellus. Mauris vitae ultricies leo integer malesuada nunc vel. Pharetra magna ac placerat vestibulum. Ullamcorper velit sed ullamcorper morbi tincidunt. Turpis egestas pretium aenean pharetra magna ac placerat vestibulum. Lectus vestibulum mattis ullamcorper velit sed ullamcorper. Fames ac turpis egestas maecenas pharetra convallis. Ultricies mi quis hendrerit dolor. Ullamcorper a lacus vestibulum sed arcu non odio euismod lacinia. Porttitor eget dolor morbi non. Enim praesent elementum facilisis leo vel fringilla. Morbi tristique senectus et netus et. Habitant morbi tristique senectus et netus et. Eget sit amet tellus cras. Quis ipsum suspendisse ultrices gravida. Ornare massa eget egestas purus viverra accumsan in nisl nisi. Lobortis elementum nibh tellus molestie nunc. Commodo odio aenean sed adipiscing diam. Nullam eget felis eget nunc lobortis mattis aliquam faucibus. Elementum integer enim neque volutpat ac tincidunt. Praesent elementum facilisis leo vel fringilla. Pellentesque habitant morbi tristique senectus et. Feugiat pretium nibh ipsum consequat nisl vel pretium lectus. Posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Diam maecenas ultricies mi eget mauris pharetra et ultrices neque. Morbi tincidunt augue interdum velit. Ipsum dolor sit amet consectetur adipiscing elit. Pellentesque elit eget gravida cum sociis natoque penatibus. Tempus urna et pharetra pharetra massa massa. Feugiat sed lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi. Leo urna molestie at elementum eu facilisis. Consectetur adipiscing elit ut aliquam. Ullamcorper sit amet risus nullam eget felis eget. Euismod lacinia at quis risus sed. Praesent elementum facilisis leo vel fringilla est ullamcorper. Sed turpis tincidunt id aliquet. Accumsan in nisl nisi scelerisque eu. Tristique senectus et netus et malesuada fames ac. Nunc sed id semper risus in. Amet aliquam id diam maecenas. Et egestas quis ipsum suspendisse ultrices gravida dictum. Vitae tortor condimentum lacinia quis. Et odio pellentesque diam volutpat commodo sed. Magna ac placerat vestibulum lectus. Vestibulum mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa. At imperdiet dui accumsan sit amet nulla. Posuere lorem ipsum dolor sit. Morbi tristique senectus et netus et malesuada fames. Posuere ac ut consequat semper viverra nam libero justo laoreet. Sit amet consectetur adipiscing elit ut aliquam purus sit. Purus sit amet volutpat consequat mauris nunc congue nisi. Justo donec enim diam vulputate ut. Eget nullam non nisi est. Lorem donec massa sapien faucibus et. Senectus et netus et malesuada fames ac turpis egestas maecenas. Diam volutpat commodo sed egestas. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Porta lorem mollis aliquam ut porttitor leo. Aliquam etiam erat velit scelerisque in dictum non. Nulla aliquet porttitor lacus luctus accumsan tortor posuere ac. Euismod lacinia at quis risus sed vulputate odio ut. Aliquam sem fringilla ut morbi tincidunt augue interdum velit euismod. Et egestas quis ipsum suspendisse ultrices. Dictum sit amet justo donec enim. Tellus in hac habitasse platea dictumst vestibulum. Mi ipsum faucibus vitae aliquet nec ullamcorper sit. Ullamcorper eget nulla facilisi etiam dignissim diam. Integer enim neque volutpat ac. Purus ut faucibus pulvinar elementum integer enim neque volutpat ac. At varius vel pharetra vel turpis nunc eget lorem dolor. Massa sed elementum tempus egestas sed sed risus. Volutpat est velit egestas dui id ornare arcu odio. Tincidunt tortor aliquam nulla facilisi cras fermentum odio eu feugiat. Egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. Vitae congue eu consequat ac felis donec et odio pellentesque. Id velit ut tortor pretium viverra suspendisse potenti. Ut tellus elementum sagittis vitae et leo.",
+        "title": "TBBETBM is LIVE!!!",
+        "content": "The TBBETBM (The Best Blog Ever To Be Made) is here! October first, 2024, marks the first day of this (hopefully long term) personal project. The blog has a very boring, basic Vercel app design. The entries have no formatting.. I can't even start a new line in this body. And I clearly also have no blog experience :D. So hopefully, by the end of all of this, I'll be more experienced in blogging and web dev hehehe... I was using some kinda <Image> custom element for some reason, which couldn't take image links, so I switched to the default img tag (this will be subject to change?!). Truncated text is truncated really weirdly, I need to fix that. BUT!! Goals ATM are to figure out where I should host my images for this project (thinking about Cloudinary)! Instead, here's an image of ducknana in Adobe-converted svg form:",
         "date": "2024-04-17",
-        "images": ["/vercel.svg", "/vercel.svg"]
-    },
-    {
-        "id": "2",
-        "title": "tom",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sedncidid.",
-        "date": "2024-04-17",
-        "images": ["/vercel.svg"]
-    },
-    {
-        "id": "3",
-        "title": "title",
-        "content": "Content of Entry 3",
-        "date": "2024-04-17",
-        "images": ["/vercel.svg"]
-    },
-    {
-        "id": "4",
-        "title": "wow",
-        "content": "Content of Entry 4",
-        "date": "2024-04-17",
-        "images": ["/vercel.svg"]
-    },
-    {
-        "id": "5",
-        "title": "e",
-        "content": "Content of Entry 5",
-        "date": "2024-04-17",
-        "images": ["/vercel.svg"]
-    },
-    {
-        "id": "6",
-        "title": "Game Design, completing Final.",
-        "content": "",
-        "date": "2024-04-17",
-        "images": ["/vercel.svg"]
+        "images": ["/banana duck.svg"]
     }
+
 ]
