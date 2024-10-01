@@ -19,7 +19,7 @@ export const BlogTab: FC<BlogTabProps> = ({
     return (
             <a href={`/entry/${id}`} className='text-left group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30'>
             <h2 className='mb-3 text-2xl font-semibold'>
-            {`Week ${entry?.id}`} {''}
+            {entry?.title} {''}
                 <span className='inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none text-sm text-gray-500 transition-colors duration-300 group-hover:text-gray-200'>
                     {entry?.date}
                 </span>
@@ -28,6 +28,8 @@ export const BlogTab: FC<BlogTabProps> = ({
                 {overflowed}
             </p>
         </a>
+
+        
     );
 };
 
