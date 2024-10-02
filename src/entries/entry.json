@@ -1,10 +1,11 @@
 [
     {
         "id": "1",
-        "title": "TBBETBM is LIVE!!!",
-        "content": "The TBBETBM (The Best Blog Ever To Be Made) is here! October first, 2024, marks the first day of this (hopefully long term) personal project. The blog has a very boring, basic Vercel app design. The entries have no formatting.. I can't even start a new line in this body. And I clearly also have no blog experience :D. So hopefully, by the end of all of this, I'll be more experienced in blogging and web dev hehehe... I was using some kinda <Image> custom element for some reason, which couldn't take image links, so I switched to the default img tag (this will be subject to change?!). Truncated text is truncated really weirdly, I need to fix that. BUT!! Goals ATM are to figure out where I should host my images for this project (thinking about Cloudinary)! Instead, here's an image of ducknana in Adobe-converted svg form:",
-        "date": "2024-04-17",
-        "images": ["/banana duck.svg"]
+        "title": "TBBETBM is LIVE!",
+        "content": "The TBBETBM (The Best Blog Ever To Be Made) is here! October first, 2024, marks the first day of this (hopefully long term) personal project. The blog has a very boring, basic Vercel app design. The entries have no formatting.. I can't even start a new line in this body. And I clearly also have no blog experience :D. So hopefully, by the end of all of this, I'll be more experienced in blogging and web dev hehehe... I was using some kinda <Image> custom element for some reason, which couldn't take image links, so I switched to the default img tag (this will be subject to change?!). Truncated text is truncated really weirdly, I need to fix that. BUT!! Where should I host my images for this project (thinking about Cloudinary)! Instead, here's an image of ducknana in Adobe-converted svg form:",
+        "date": "2024-10-01",
+        "images": [
+            "/banana duck.svg"
+        ]
     }
-
 ]

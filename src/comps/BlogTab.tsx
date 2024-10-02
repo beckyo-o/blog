@@ -15,11 +15,11 @@ export const BlogTab: FC<BlogTabProps> = ({
 
     const entry = entries.find((entry: { id: string }) => entry.id === id)
     const overflowed = bod.length > 106 ? bod.substring(0, 103) + "..." : bod
-    
+
     return (
-            <a href={`/entry/${id}`} className='text-left group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30'>
+        <a href={`/entry/${id}`} className='text-left group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30'>
             <h2 className='mb-3 text-2xl font-semibold'>
-            {entry?.title} {''}
+                {`Entry ${entry?.id}`} {''}
                 <span className='inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none text-sm text-gray-500 transition-colors duration-300 group-hover:text-gray-200'>
                     {entry?.date}
                 </span>
@@ -28,8 +28,6 @@ export const BlogTab: FC<BlogTabProps> = ({
                 {overflowed}
             </p>
         </a>
-
-        
     );
 };
 

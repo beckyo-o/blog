@@ -49,7 +49,7 @@ export default async function EntryDetailPage({ params }: {
                 )}
                 {!prevEntryLink && (
                     <div className="">
-                        
+
                     </div>
                 )}
             </div>
@@ -64,7 +64,7 @@ export default async function EntryDetailPage({ params }: {
                 </p>
                 <div className="">
                     <p className="font-sans leading-loose antialiased">
-                    {entry.content}
+                        {entry.content}
                     </p>
                 </div>
                 <div className="grid grid-cols-1 gap-4 place-items-center h-56">
