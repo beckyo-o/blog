@@ -3,6 +3,8 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import { HomeIcon } from '@heroicons/react/24/solid';
 import Image from 'next/image';
+import { Analytics } from "@vercel/analytics/react"
+
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -23,6 +25,7 @@ export default function RootLayout({
           <HomeIcon className="size-8 text-white-500 fixed top-6 left-10" />
         </a>
         {children}
+        <Analytics />
 
         <div className="flex h-24 w-full items-end justify-center mb-7">
           <a
