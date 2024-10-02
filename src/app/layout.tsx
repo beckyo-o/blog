@@ -4,6 +4,7 @@ import "./globals.css";
 import { HomeIcon } from '@heroicons/react/24/solid';
 import Image from 'next/image';
 import { Analytics } from "@vercel/analytics/react"
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 
 const inter = Inter({ subsets: ["latin"] });
@@ -26,6 +27,7 @@ export default function RootLayout({
         </a>
         {children}
         <Analytics />
+        <SpeedInsights />
 
         <div className="flex h-24 w-full items-end justify-center mb-7">
           <a

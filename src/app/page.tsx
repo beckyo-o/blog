@@ -17,9 +17,11 @@ export default function Home() {
           Fix this home page.. really boring.
         </p>
       </div>
-      <h1 className='font-mono text-2xl font-semibold tracking-wide lg:tracking-widest sm:tracking-tight'>
-        Becky's really cool blog!
-      </h1>
+      <div>
+        <h1 className='font-mono text-2xl font-semibold tracking-wide lg:tracking-widest sm:tracking-tight text-center items-center'>
+          Becky's really cool blog!
+        </h1>
+      </div>
 
       <div className='mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left'>
 
