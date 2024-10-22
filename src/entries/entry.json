@@ -1,11 +1,16 @@
 [
-    {
-        "id": "1",
-        "title": "TBBETBM is LIVE!",
-        "content": "The TBBETBM (The Best Blog Ever To Be Made) is here! October first, 2024, marks the first day of this (hopefully long term) personal project. The blog has a very boring, basic Vercel app design. The entries have no formatting.. I can't even start a new line in this body. And I clearly also have no blog experience :D. So hopefully, by the end of all of this, I'll be more experienced in blogging and web dev hehehe... I was using some kinda <Image> custom element for some reason, which couldn't take image links, so I switched to the default img tag (this will be subject to change?!). Truncated text is truncated really weirdly, I need to fix that. BUT!! Where should I host my images for this project (thinking about Cloudinary)! Instead, here's an image of ducknana in Adobe-converted svg form:",
-        "date": "2024-10-01",
-        "images": [
-            "/banana duck.svg"
-        ]
-    }
+  {
+    "id": "1",
+    "title": "TBBETBM is LIVE!",
+    "content": "The TBBETBM (The Best Blog Ever To Be Made) is here! October first, 2024, marks the first day of this (hopefully long term) personal project. The blog has a very boring, basic Vercel app design. The entries have no formatting.. I can't even start a new line in this body. And I clearly also have no blog experience :D. So hopefully, by the end of all of this, I'll be more experienced in blogging and web dev hehehe... I was using some kinda <Image> custom element for some reason, which couldn't take image links, so I switched to the default img tag (this will be subject to change?!). Truncated text is truncated really weirdly, I need to fix that. BUT!! Where should I host my images for this project (thinking about Cloudinary)! Instead, here's an image of ducknana in Adobe-converted svg form:",
+    "date": "2024-10-01",
+    "images": ["/banana duck.svg"]
+  },
+  {
+    "id": "2",
+    "title": "New home page?!",
+    "content": "3 weeks later and more research done than programming, the new, very pretty home page is up. The differences are so minimal, but most of the changes are within the Tailwind rather than the design (the Tailwind is redundant..). Check the images below to see the changes side by side. The main changes include changes to the header, the pretty cool divider, and the blog tabs. There was also an issue with the header not being fixed in place, leading to the header being squished to the top with enough blog entries. Obviously not good. After rearranging the Tailwind in the home page TSX file, I got the header to stay in place, and made it a bit bigger and pop out more. The home page has more refining, but this is a good amount better than before! But now I've broken the text truncation for the tabs and made them ugly. You win some, you lose some.",
+    "date": "2024-10-022",
+    "images": ["/october-22-2024-old-home.png", "/october-22-2024-new-home.png"]
+  }
 ]
