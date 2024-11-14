@@ -1,8 +1,6 @@
 "use client";
 import { notFound } from "next/navigation";
 import entries from "@/entries/entry.json";
-import Image from "next/image";
-import { ChevronLeftIcon, ChevronRightIcon } from "@heroicons/react/24/outline";
 
 export default async function EntryDetailPage({ params }: { params: { entryId: string } }) {
   const entry = entries.find((entry: { id: string }) => entry.id === params.entryId); // Look for entry with id
@@ -13,9 +11,8 @@ export default async function EntryDetailPage({ params }: { params: { entryId: s
     <main>
       <title>{entry.title}</title>
       <div className='max-w-3xl mx-auto min-h-screen justify-center p-10 dark:bg-neutral-700/30 border dark:border-neutral-600/40 rounded-lg'>
-        <h1 className='text-3xl font-bold mb-4 mt-5'>{entry.title}</h1>
+        <h1 className='text-2xl transition-colors duration-300 text-gray-400 hover:text-gray-300 font-bold mb-4 mt-4'>{entry.title}</h1>
         <p className='text-gray-600 mb-4 font-mono'>{entry.date}</p>
-
         <p className='font-sans leading-loose antialiased'>{entry.content}</p>
         <div className='grid grid-cols-1 gap-4 place-items-center'>
           {entry.images.map((image: string) => (

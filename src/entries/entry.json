@@ -10,7 +10,14 @@
     "id": "2",
     "title": "New home page?!",
     "content": "3 weeks later and more research done than programming, the new, very pretty home page is up. The differences are so minimal, but most of the changes are within the Tailwind rather than the design (the Tailwind is redundant..). Check the images below to see the changes side by side. The main changes include changes to the header, the pretty cool divider, and the blog tabs. There was also an issue with the header not being fixed in place, leading to the header being squished to the top with enough blog entries. Obviously not good. After rearranging the Tailwind in the home page TSX file, I got the header to stay in place, and made it a bit bigger and pop out more. The home page has more refining, but this is a good amount better than before! But now I've broken the text truncation for the tabs and made them ugly. You win some, you lose some.",
-    "date": "2024-10-022",
+    "date": "2024-10-22",
     "images": ["/october-22-2024-old-home.png", "/october-22-2024-new-home.png"]
+  },
+  {
+    "id": "3",
+    "title": "And light mode...",
+    "content": "Honestly, I should've just focused on the homepage and do some really big, huge change to the layout, but lazy boohoo. So I looked for something else to complain about! The only other page on this website: entry page! Several issues, the images were not centered into the content border because the images were fixed outside of the proper div tag. Entry page is bland and boring, the body is a giant paragraph. I need to figure out how to fix that and make it look better. The other change is in how the  And then set up Postgres maybe. I still don't have a place to host my images. And light mode. Darn.",
+    "date": "2024-11-14",
+    "images": ["/november-14-2024-broken-entry.png"]
   }
 ]
