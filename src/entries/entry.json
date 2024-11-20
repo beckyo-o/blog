@@ -16,7 +16,7 @@
   {
     "id": "3",
     "title": "And light mode...",
-    "content": "Honestly, I should've just focused on the homepage and do some really big, huge change to the layout, but lazy boohoo. So I looked for something else to complain about! The only other page on this website: entry page! Several issues, the images were not centered into the content border because the images were fixed outside of the proper div tag. Entry page is bland and boring, the body is a giant paragraph. I need to figure out how to fix that and make it look better. The other change is in how the  And then set up Postgres maybe. I still don't have a place to host my images. And light mode. Darn.",
+    "content": "Honestly, I should've just focused on the homepage and do some really big, huge change to the layout, but lazy boohoo. So I looked for something else to complain about! The only other page on this website: entry page! Several issues, the images were not centered into the content border because the images were fixed outside of the proper div tag. Entry page is bland and boring, the body is a giant paragraph. I need to figure out how to fix that and make it look better. The other change is in optimizing the files. I still don't have a place to host my images. And light mode. Darn.",
     "date": "2024-11-14",
     "images": ["/november-14-2024-broken-entry.png"]
   }
